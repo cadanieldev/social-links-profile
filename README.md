@@ -44,7 +44,7 @@ Design inspirado por um desafio do [Frontend Mentor](https://www.frontendmentor.
 
 ## Autor
 
-[Seu Nome]
+Carlos Daniel
 
 ## Licença
 
